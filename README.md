@@ -1,16 +1,41 @@
-## Hi there 👋
+## 🎮 Gaming & Technical Documentation Portfolio
+* **Complete Archive:** [My Independent Trophy & Achievement Guides](https://pstrophyguides.blogspot.com/) — *Meticulous, text-based 100% completion roadmaps, lock-out warnings, Personal Q&A testing and live DLC updates.*
 
-<!--
-**KittyPaine/KittyPaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Trophy/Achievement Guide:** [Process of Elimination Platinum Guide](https://pstrophyguides.blogspot.com/2026/06/process-of-elimination-platinum-guide.html)
+* **Trophy/Achievement Guide:** [Danganronpa S: Ultimate Summer Camp Platinum Guide](https://pstrophyguides.blogspot.com/2026/06/danganronpa-s-ultimate-summer-camp.html)
+* **Trophy/Achievement Guide:** [Danganronpa V3: Killing Harmony Platinum Guide](https://pstrophyguides.blogspot.com/2026/06/danganronpa-v3-killing-harmony-platinum.html)
+* **Trophy/Achievement Guide:** [Master Detective Archives: RAIN CODDE+ Platinum Guide](https://pstrophyguides.blogspot.com/2026/06/master-detective-archives-rain-code.html)
+* **Trophy/Achievement Guide:** [Ready or Not 100% Guide](https://pstrophyguides.blogspot.com/2026/06/ready-or-not-100-trophy-guide.html)
+* **Trophy/Achievement Guide:** [Metal Gear Survive Platinum Guide](https://pstrophyguides.blogspot.com/2025/12/metal-gears-survive-platinum-guide.html)
+* **Trophy/Achievement Guide:** [Killing Floor 3 100% Guide](https://pstrophyguides.blogspot.com/2025/12/killing-floor-3-100-guide.html)
+* **Trophy/Achievement Guide:** [Zero Escape: The Nonary Games and Virtue's Last Reward Platinum Guide](https://pstrophyguides.blogspot.com/2025/05/zero-escape-nonary-games-and-virtues.html)
+* **Trophy/Achievement Guide:** [Ace Attorney: Investigations Collection Platinum Guide](https://pstrophyguides.blogspot.com/2025/05/ace-attorney-investigations-collection.html)
+* **Trophy/Achievement Guide:** [Diablo 4 100% Guide](https://pstrophyguides.blogspot.com/2025/05/diablo-4-100-trophy-guide-ps4-and-ps5.html)
+* **Trophy/Achievement Guide:** [Phasmophobia Platinum Guide](https://pstrophyguides.blogspot.com/2025/04/phasmophobia-platinum-trophy-guide.html)
+* **Trophy/Achievement Guide:** [Apollo Justice: Ace Attorney Trilogy Platinum Guide](https://pstrophyguides.blogspot.com/2025/01/apollo-justice-ace-attorney-trilogy.html)
+* **Trophy/Achievement Guide:** [Phoenix Wright: Ace Attorney Trilogy Platinum Guide](https://pstrophyguides.blogspot.com/2025/01/phoenix-wright-ace-attorney-trilogy.html)
+* **Trophy/Achievement Guide:** [Silent Hill 2 (2024) Platinum Guide](https://pstrophyguides.blogspot.com/2024/10/silent-hill-2-2024-platinum-trophy-guide.html)
+* **Game Specific Guide:** [Crystallization Catalyst and Energy Activator Farm Guide](https://pstrophyguides.blogspot.com/2024/08/the-first-descedant-crystallization.html)
+* **Trophy/Achievement Guide:** [The First Descenant Platinum Guide](https://pstrophyguides.blogspot.com/2024/07/the-first-descendant-platinum-guide.html)
+* **Trophy/Achievement Guide:** [Danganronpa 1 • 2 Reload Platinum Guide](https://pstrophyguides.blogspot.com/2024/05/danganronpa-1-2-reload.html)
+* **Trophy/Achievement Guide:** [Dangantonpa: Ultra Despair Girls Platinum Guide](https://pstrophyguides.blogspot.com/2024/05/danganrona-ultra-despair-girls-ps4-and.html)
+* **Trophy/Achievement Guide:** [Danganronpa 2: Goodbye Despair Platinum Guide](https://pstrophyguides.blogspot.com/2024/05/danganronpa-2-goodbye-despair.html)
+* **Trophy/Achievement Guide:** [Danganronpa: Trigger Happy Havoc Platinum Guide](https://pstrophyguides.blogspot.com/2024/05/daganronpa-trigger-happy-havoc.html)
+* **Trophy/Achievement Guide:** [Payday 3 Platinum Guide](https://pstrophyguides.blogspot.com/2024/02/payday-3-platinum-guide.html)
+* **Game Specific Guide:** [Disney Dreamlight Valley Critters Guide](https://pstrophyguides.blogspot.com/2023/12/disney-dreamlight-valley-critters.html)
+* **Game Specific Guide:** [Disney Dreamlight Valley Cooking Recipes](https://pstrophyguides.blogspot.com/2023/12/disney-dreamlight-valley-cooking-recipes.html)
+* **Trophy/Achievement Guide:** [Disney Dreamlight Valley Platinum Guide](https://pstrophyguides.blogspot.com/2023/12/disney-dreamlight-valley-platinum-guide.html)
+* **Trophy/Achievement Guide:** [Overwatch 100% Guide](https://pstrophyguides.blogspot.com/2022/10/overwatch-2-100-guide.html)
+* **Trophy/Achievement Guide:** [The Blackout Club 100% Guide](https://pstrophyguides.blogspot.com/2022/03/the-black-out-club-100-guide.html)
+* **Trophy/Achievement Guide:** [Metal Gear Solid V: The Phantom Pain Platinum Guide](https://pstrophyguides.blogspot.com/2022/01/metal-gear-solid-v-phantom-pain.html)
+* **Trophy/Achievement Guide:** [Tom Clancy's Rainbow Six Extraction Platinum Guide](https://pstrophyguides.blogspot.com/2022/01/rainbow-six-extraction-ps4-and-ps5.html)
+* **Trophy/Achievement Guide:** [Come On Kitty 100% Guide](https://pstrophyguides.blogspot.com/2021/12/come-on-kitty-100-guide.html)
+* **Trophy/Achievement Guide:** [60 Secs + Reatomized Platinum Guide](https://pstrophyguides.blogspot.com/2021/05/60-seconds-reatomized-platinum-guide.html)
+* **Trophy/Achievement Guide (with Live updates for new DLC):** [Dead by Daylight 100% Guide](https://pstrophyguides.blogspot.com/2021/01/dead-by-daylight-100-guide-ps4-and-ps5.html)
+* **Trophy/Achievement Guide:** [Rogue Company Platinum Guide](https://pstrophyguides.blogspot.com/2020/12/rogue-company-platinum-guide.html)
+* **Trophy/Achievement Guide:** [Resident Evil Resistance Platinum Guide](https://pstrophyguides.blogspot.com/2020/12/resident-evil-resistance-platinum-guide.html)
+* **Trophy/Achievement Guide:** [The Sims 4 Platinum Guide](https://pstrophyguides.blogspot.com/2020/11/the-sims-4-platinum-guide.html)
+* **Trophy/Achievement Guide:** [Payday 2: Crimewave Edition 100% Guide](https://pstrophyguides.blogspot.com/2020/11/payday-2-crimewave-edition-100-guide.html)
+* **Trophy/Achievement Guide:** [Payday the Heist 100% Guide](https://pstrophyguides.blogspot.com/2020/11/payday-heist-100-guide.html)
+* **Trophy/Achievement Guide:** [Payday 2 (PS3) Platinum Guide](https://pstrophyguides.blogspot.com/2020/11/payday-2-ps3-platinum-guide.html)
+* **Trophy/Achievement Guide (with Live Updates for significant game changes):** [Tom Clancy's Rainbow Six Siege Platinum Guide](https://pstrophyguides.blogspot.com/2020/11/rainbow-six-siege-platinum-trophy-guide.html)
