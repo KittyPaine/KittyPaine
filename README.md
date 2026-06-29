@@ -4,7 +4,7 @@
 * **Trophy/Achievement Guide:** [Process of Elimination Platinum Guide](https://pstrophyguides.blogspot.com/2026/06/process-of-elimination-platinum-guide.html)
 * **Trophy/Achievement Guide:** [Danganronpa S: Ultimate Summer Camp Platinum Guide](https://pstrophyguides.blogspot.com/2026/06/danganronpa-s-ultimate-summer-camp.html)
 * **Trophy/Achievement Guide:** [Danganronpa V3: Killing Harmony Platinum Guide](https://pstrophyguides.blogspot.com/2026/06/danganronpa-v3-killing-harmony-platinum.html)
-* **Trophy/Achievement Guide:** [Master Detective Archives: RAIN CODDE+ Platinum Guide](https://pstrophyguides.blogspot.com/2026/06/master-detective-archives-rain-code.html)
+* **Trophy/Achievement Guide:** [Master Detective Archives: RAIN CODE+ Platinum Guide](https://pstrophyguides.blogspot.com/2026/06/master-detective-archives-rain-code.html)
 * **Trophy/Achievement Guide:** [Ready or Not 100% Guide](https://pstrophyguides.blogspot.com/2026/06/ready-or-not-100-trophy-guide.html)
 * **Trophy/Achievement Guide:** [Metal Gear Survive Platinum Guide](https://pstrophyguides.blogspot.com/2025/12/metal-gears-survive-platinum-guide.html)
 * **Trophy/Achievement Guide:** [Killing Floor 3 100% Guide](https://pstrophyguides.blogspot.com/2025/12/killing-floor-3-100-guide.html)
