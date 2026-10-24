@@ -1,3 +1,22 @@
+# Angeline Thibert (KittyPaine)
+### Technical Content Engineer & Front-End Developer
+
+Dedicated to optimizing user experience through high-precision technical documentation, frontend performance optimization, and responsive design. Creator and maintainer of the **KittyPaine** live-service documentation network, bridging user-centric web platforms with version-controlled code architectures.
+
+---
+
+## 🛠️ Tech Stack & Skills
+* **Languages:** HTML5, CSS3, JavaScript, XML, C#
+* **Architecture & Workflows:** Custom Responsive CSS layouts, DOM Manipulation, JSON Serialization, Semantic Formatting, AI-Assisted Prototyping
+* **Tools:** VS Code, Visual Studio, Git & GitHub Version Control
+
+---
+
+## 🚀 Professional Profile
+* **8+ Years of Domain Expertise:** Architected, authored, and scaled complex documentation ecosystems from the ground up since 2018, ensuring real-time alignment with rapid live-service software updates.
+* **Performance-First Frontend Focus:** Specialized in framework-agnostic frontend stability, building custom semantic components and responsive grids to eliminate mobile rendering bottlenecks.
+* **Rapid Technical Agility:** A highly resourceful, self-taught engineer driven by solving systemic inefficiencies, reverse-engineering software constraints, and building real-world functional tools.
+
 # Kitty_Paine Trophy Guide Archive
 
 A curated archive of PlayStation trophy guides written and maintained by Kitty_Paine.
