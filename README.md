@@ -13,7 +13,7 @@ Dedicated to optimizing user experience through high-precision technical documen
 ---
 
 ## 🚀 Professional Profile
-* **7+ Years of Techical Documentation:** Created and maintained game guides since 2018, updating content to reflect evolving live-service games and trophy requirements.
+* **7+ Years of Technical Documentation:** Created and maintained game guides since 2018, updating content to reflect evolving live-service games and trophy requirements.
 * **Performance-First Frontend Focus:** Specialized in framework-agnostic frontend stability, building custom semantic components and responsive grids to eliminate mobile rendering bottlenecks.
 * **Rapid Technical Agility:** A highly resourceful, self-taught engineer driven by solving systemic inefficiencies, reverse-engineering software constraints, and building real-world functional tools.
 
