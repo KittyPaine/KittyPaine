@@ -1,3 +1,39 @@
+# Angeline Thibert
+
+**Front-end developer and technical writer.** I build responsive guide platforms in plain HTML, CSS and JavaScript, and I write the documentation that keeps them usable years after launch.
+
+Seven years and 42 guides in, the recurring problem I keep solving is the same one: documentation rots. Games get patched, trophy lists get revised, links break, and the guide nobody maintains becomes a liability. So I treat guides as versioned projects with an archive, a review pass, and a rollback point.
+
+---
+
+## What I actually build
+
+[**PSTrophyGuides**](https://pstrophyguides.blogspot.com/) — a guide platform with 42 published walkthroughs and a version-controlled archive. Guides are organised into `Completed`, `In Progress`, `Legacy` and `Structural` releases, so every page has a known state and a history. [Read the architecture](https://github.com/KittyPaine/pstrophies.blogspot.com).
+
+[**Rainbow Six Siege Engine Analytics**](https://github.com/KittyPaine/Siege-Performance-Analytics) — a data audit across 78 operators that established a 55.63% mechanical precision baseline. Shipped as a spreadsheet plus a formatted PDF report, because the finding is worth nothing if a reader can't scan it.
+
+[**Video Game Backlog Tracker**](https://github.com/KittyPaine/VideoGameBacklogTracker) — an HTML/JS tracker for achievement progress that links straight into the relevant guide, so the record and the instructions live in one place.
+
+---
+
+## Demonstrates
+
+**Front-end**
+
+Semantic HTML5, responsive layouts with hand-written CSS (no framework), DOM manipulation in vanilla JS.
+
+**Documentation**
+
+Long-form technical writing, information architecture, versioning and archival conventions, verification dates for live-service content.
+
+**Data**
+
+Structured analysis, spreadsheet modelling, reporting for a non-technical reader.
+
+**Process**
+
+Git and GitHub workflows, self-directed project scoping, seven years of sustained maintenance on unpaid work.
+
 ---
 
 ## Where to look
@@ -12,9 +48,7 @@ I'm looking for remote front-end or technical documentation work. No degree. The
 
 ---
 
-<details>
-
-<summary><b>Full guide archive (42 guides)</b></summary>
+## Full guide archive (42 guides)
 
 ### Ace Attorney Series
 
@@ -87,8 +121,6 @@ I'm looking for remote front-end or technical documentation work. No degree. The
 - [60 Seconds! Reatomized – Platinum Guide](https://pstrophyguides.blogspot.com/2021/05/60-seconds-reatomized-platinum-guide.html)
 - [Come On Kitty – 100% Guide](https://pstrophyguides.blogspot.com/2021/12/come-on-kitty-100-guide.html)
 - [The Sims 4 – Platinum Guide](https://pstrophyguides.blogspot.com/2020/11/the-sims-4-platinum-guide.html)
-
-</details>
 
 ---
 
