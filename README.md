@@ -123,4 +123,4 @@ I'm looking for remote front-end or technical documentation work. No degree. The
 
 ---
 
-All guides are written from first-hand completion. Live-service guides carry verification dates and update logs so players can confirm methods still hold under current mechanics.
+All guides are written from first-hand completion and extensive research. Live-service guides carry verification dates and update logs so players can confirm methods still hold under current mechanics.
