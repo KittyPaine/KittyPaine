@@ -8,7 +8,7 @@ Seven years and 42 guides in, the recurring problem I keep solving is the same o
 
 ## What I actually build
 
-[**PSTrophyGuides**](https://pstrophyguides.blogspot.com/) — a guide platform with 42 published walkthroughs and a version-controlled archive. Guides are organised into `Completed`, `In Progress`, `Legacy` and `Structural` releases, so every page has a known state and a history. [Read the architecture](https://github.com/KittyPaine/pstrophies.blogspot.com).
+[**PSTrophyGuides**](https://pstrophyguides.blogspot.com/) — a guide platform with 42 published walkthroughs and a version-controlled archive. Guides are organised into `Completed`, `In Progress`, `Legacy` and `Structural` releases, so every page has a known state and a history. [Read the architecture](https://github.com/KittyPaine/pstrophyguides.blogspot.com).
 
 [**Rainbow Six Siege Engine Analytics**](https://github.com/KittyPaine/Siege-Performance-Analytics) — a data audit across 78 operators that established a 55.63% mechanical precision baseline. Shipped as a spreadsheet plus a formatted PDF report, because the finding is worth nothing if a reader can't scan it.
 
@@ -18,21 +18,21 @@ Seven years and 42 guides in, the recurring problem I keep solving is the same o
 
 ## Demonstrates
 
-**Front-end**
+**Front-end (FE Dev & UI/UX)**
 
-Semantic HTML5, responsive layouts with hand-written CSS (no framework), DOM manipulation in vanilla JS.
+Semantic HTML5, responsive layouts with hand-written CSS (no framework), and DOM manipulation in vanilla JS built for clean user experiences.
 
-**Documentation**
+**Documentation & Information Architecture (Info Arch)**
 
-Long-form technical writing, information architecture, versioning and archival conventions, verification dates for live-service content.
+Long-form technical writing, structured information architecture, versioning and archival conventions, and verification dates for live-service content.
 
-**Data**
+**Data & Quality Assurance (QA)**
 
-Structured analysis, spreadsheet modelling, reporting for a non-technical reader.
+Structured analysis, spreadsheet modelling, reporting for non-technical readers, and rigorous verification across 42 guides.
 
-**Process**
+**Engineering & Growth (DevOps, AI Integration, Content Strategy & Growth)**
 
-Git and GitHub workflows, self-directed project scoping, seven years of sustained maintenance on unpaid work.
+Git and GitHub workflows, self-directed project scoping, AI integration for search optimization and discovery, and six years of sustained maintenance on unpaid work.
 
 ---
 
